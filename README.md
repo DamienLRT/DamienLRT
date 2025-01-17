@@ -1,6 +1,5 @@
 ### About me 👋
 - 🔭 I’m currently working on Python, Power BI, Tableau, Looker Studio
-- 🌱 I’m currently learning R and SAS
 - 📫 How to reach me: lioret.damien@gmail.com
 
 
